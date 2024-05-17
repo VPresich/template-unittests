@@ -1,6 +1,7 @@
-function isLeapYear(year) {
+const isLeapYear = (year) => {
   const res = true;
+
   return res;
-}
+};
 
 export default isLeapYear;
